@@ -60,8 +60,7 @@ project/
 │
 ├── outputs/
 │   ├── Data_Dynamos_predictions.csv
-│   ├── catboost_predictions.csv
-│   └── feature_importance.csv
+│   
 │
 ├── README.md
 ├── report.pdf
