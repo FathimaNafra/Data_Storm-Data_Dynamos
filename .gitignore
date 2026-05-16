@@ -1,0 +1,8 @@
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
+.DS_Store
+notebooks/cache/
+notebooks/catboost_info/
+outputs/catboost_predictions.csv
